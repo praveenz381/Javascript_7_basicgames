@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  padding-left: 34%;
+  padding-top: 5%;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+.score {
+	padding-top: 3%;
+	text-align: center;
+	color: brown;
+}
